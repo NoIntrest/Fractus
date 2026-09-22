@@ -1,0 +1,1 @@
+from .opencv_detector import OpenCVSceneDetector
